@@ -1,5 +1,5 @@
 {
-  "name": "Extension Demo",
+  "name": "Dragon ball extension",
   "version": "1.0",
   "description": "Build an Basic Extension!",
   "permissions": ["activeTab"],
