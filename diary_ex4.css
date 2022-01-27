@@ -1,0 +1,65 @@
+a:hover {
+    color: red;
+  }
+.content{
+    font-family: Georgia, sans-serif;
+    padding: 20px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: white;
+    background-color: rgb(216,216,255);
+}
+
+.int1{
+    margin: 3px;
+    /*border-style: solid;
+    border-width: 3px;
+    border-color: green;*/
+    text-align: right;
+}
+
+
+
+.entry{
+    margin-top: 10px;
+    padding: 15px;
+    margin: 3px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(255,216,255);
+    background-color: rgb(236,236,245);
+}
+
+.author{
+    
+    font-style: italic;
+    color: slategray;
+    /*border-style: solid;
+    border-width: 3px;
+    border-color: cyan;*/
+}
+
+/*p{
+    
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+}*/
+
+footer{
+    visibility: hidden;
+    margin: 3px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: blue;
+    text-align: center;
+}
+
+body  {
+    margin: 10%;
+    background-image: url("images/paper.png");
+  }
+
+.pics {
+    text-align: right;
+}
