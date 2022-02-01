@@ -1,0 +1,57 @@
+.content{
+    padding: 20px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: red;
+    background-color: ivory;
+}
+
+.int1{
+    margin: 3px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: green;
+}
+
+.nav{
+    
+    border-style: solid;
+    border-width: 3px;
+    border-color: orange;
+}
+
+.entry{
+    margin-top: 10px;
+    padding: 15px;
+    margin: 3px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: lime;
+    background-color: rgb(236,236,245);
+}
+
+.author{
+    
+    border-style: solid;
+    border-width: 3px;
+    border-color: cyan;
+}
+
+/*p{
+    
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+}*/
+
+footer{
+    margin: 3px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: blue;
+}
+
+body  {
+    margin: 10%;
+    background-image: url("images/paper.png");
+  }
